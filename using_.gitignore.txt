@@ -1,0 +1,7 @@
+Whenever we want some files to not commit into the repo we can use the 
+.gitignore file
+
+to create .gitignore
+$ touch .gitignore
+
+Add the details of the directory or the files that you do not want to commit.
