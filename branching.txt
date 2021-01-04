@@ -9,3 +9,7 @@ $ git branch
 3. change a branch
  $ git checkout <branch-name>
 
+4. merge to master
+make sure you are in the master branch
+$ git merger <branch name>
+
