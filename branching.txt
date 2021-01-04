@@ -1,0 +1,11 @@
+1. create branch
+
+$ git branch <branch-name>
+
+2. Show branches
+
+$ git branch
+
+3. change a branch
+ $ git checkout <branch-name>
+
